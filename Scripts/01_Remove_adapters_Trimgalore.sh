@@ -1,5 +1,5 @@
 #!/bin/bash
-#SBATCH -A naiss2023-5-461
+#SBATCH -A snicProjectID
 #SBATCH -p node
 #SBATCH -t 2-00:00:00
 #SBATCH -J Trimgalore
