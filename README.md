@@ -8,7 +8,7 @@ Post-Assembly Analysis: Evaluation and annotation of assembled transcripts.
 Requirements:
 Detailed software and library dependencies are listed in the requirements.txt file.
 Usage:
-Instructions on how to use each script are provided in their respective directories or script headers.
+Instructions on using each script are provided in their respective directories or script headers.
 
 Contributions:
 Contributions and improvements are welcome. Please fork this repository and submit a pull request.
