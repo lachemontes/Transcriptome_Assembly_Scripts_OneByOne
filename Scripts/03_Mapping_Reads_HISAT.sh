@@ -1,5 +1,5 @@
 #!/bin/bash
-#SBATCH -A snic2022-5-454
+#SBATCH -A snicProjectID
 #SBATCH -p node
 #SBATCH -t 12:00:00
 #SBATCH -J Fem_HISAT_Mapping
