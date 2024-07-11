@@ -1,5 +1,5 @@
 #!/bin/bash
-#SBATCH -A snic2022-5-454
+#SBATCH -A snicProjectID
 #SBATCH -p core -n 8
 #SBATCH -t 12:00:00
 #SBATCH -J Fastqc
