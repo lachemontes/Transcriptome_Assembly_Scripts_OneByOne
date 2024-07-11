@@ -1,21 +1,21 @@
 # Transcriptome_Assembly_Scripts_OneByOne
 This repository contains scripts developed and used for transcriptome assembly projects. These scripts facilitate efficient processing and assembly of transcriptomic data, covering various stages from raw data preprocessing to final assembly evaluation.
 
-Features:
+**Features:**
 
-Data Preprocessing: Quality control and filtering of raw sequencing data.
+**Data Preprocessing:** Quality control and filtering of raw sequencing data.
 
-Assembly: Methods and tools for transcriptome assembly.
+**Assembly:** Methods and tools for transcriptome assembly.
 
-Post-Assembly Analysis: Evaluation and annotation of assembled transcripts.
+**Post-Assembly Analysis:** Evaluation and annotation of assembled transcripts.
 
-Requirements:
+**Requirements:**
 
 Detailed software and library dependencies are listed in the requirements.txt file.
 
-Usage:
+**Usage:**
 Instructions on using each script are provided in their respective directories or script headers.
 
-Contributions:
+**Contributions:**
 Contributions and improvements are welcome. Please fork this repository and submit a pull request.
 
