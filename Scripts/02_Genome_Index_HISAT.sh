@@ -1,5 +1,5 @@
 #!/bin/bash
-#SBATCH -A naiss2023-5-461
+#SBATCH -A snicProjectID
 #SBATCH -p core -n 16
 #SBATCH -t 7-00:00:00
 #SBATCH -J HISAT_Ticks_Index
