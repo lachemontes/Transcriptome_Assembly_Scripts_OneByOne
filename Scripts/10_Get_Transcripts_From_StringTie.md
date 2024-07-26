@@ -33,9 +33,3 @@ gffread transcripts.gff3 -g /path/to/your/Genome/genome.fna -w transcripts.fasta
 ```
 
 This command extracts the nucleotide sequences of the transcripts from the GFF3 file and outputs them in FASTA format. 
-
-### Parameters:
-
-transcripts.gff3: Input GFF3 file generated from the previous step.
--g /proj/snic2022-23-541/Ticks_project/Data/Genome/Ixodes_ricinus_2024.fna: Specifies the path to the reference genome file required to extract the sequence information.
--w transcripts.fasta: Specifies the output file name for the FASTA format, where the transcript sequences will be saved.
