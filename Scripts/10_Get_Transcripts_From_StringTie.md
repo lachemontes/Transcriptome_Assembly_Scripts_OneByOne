@@ -7,7 +7,9 @@ Anaconda or Miniconda installed.
 The Cufflinks environment set up with StringTie and gffread installed.
 The output file from StringTie, typically named transcripts.gtf.
 
+```
 conda activate Cufflinks
+```
 
 This command activates the Cufflinks conda environment, making sure that all necessary dependencies for working with transcriptomic data are available.
 
