@@ -4,6 +4,11 @@ The script reads FASTA files containing sequences and their descriptions,
 and renames each sequence according to the specified format:
 accessionnumber_Abbreviation_GR_Number.
 
+Requirements
+Make sure to have the Biopython library installed:
+pip install biopython
+
+
 Usage:
     python rename_insect_chemoreceptors.py <file1.fasta> [<file2.fasta> ...]
 
