@@ -3,7 +3,7 @@ Script to rename FASTA files of insect chemoreceptors from RefSeq.
 The script reads FASTA files containing sequences and their descriptions,
 and renames each sequence according to the specified format:
 accessionnumber_Abbreviation_GR_Number.
-Author: Zaide Montes-Ortiz
+Author: Ivan Pulido & Zaide Montes-Ortiz
 Institution: Universidad de los Andes, Bogota, Colombia
 
 
