@@ -1,0 +1,33 @@
+# Exploring transcriptome-wide changes using PCA
+
+
+---
+title: "Exploring Transcriptome-wide Changes Using PCA"
+author: "Zaide Montes Ortiz"
+format:
+  html:
+    code-fold: true
+    toc: true
+    toc-depth: 2
+    number-sections: true
+    fig-cap-location: top
+---
+
+## Introduction
+
+This notebook performs **Principal Component Analysis (PCA)** to visualize transcriptome-wide changes across your samples using TPM values from Kallisto or Salmon.
+**Description of data set**
+
+A total of 96 libraries were analyzed, including tissues from six individuals, two parts (distal/proximal), four technical replicates, and two ends.
+
+---
+
+##  Load Libraries
+
+```{r}
+library(tidyverse)
+library(ggplot2)
+library(readr)
+library(patchwork)   # for combining plots if needed
+library(FactoMineR)  # PCA calculation
+library(factoextra)  # PCA visualization
